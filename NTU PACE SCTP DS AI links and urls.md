@@ -8,7 +8,7 @@ https://ntu-sg.zoom.us/w/89667787489?tk=SVDQCF-MEsVzMBRarZzBXJgK8FQTAvLIBrK_st9D
 
 
 https://ntulearn.ntu.edu.sg/ultra/courses/_2709459_1/outline/edit/document/_5837481_1?courseId=_2709459_1&view=content&state=view
-
+---> NTU Learn links for all modules SCTP
 
 https://discord.com/channels/1165846570177150996/1165846570177150999
 
