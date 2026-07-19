@@ -13,7 +13,7 @@ https://ntulearn.ntu.edu.sg/ultra/courses/_2709459_1/outline/edit/document/_5837
 https://discord.com/channels/1165846570177150996/1165846570177150999   ---> Discord link
 
 
-https://tms.ntu.edu.sg/student
+https://tms.ntu.edu.sg/student    --> TMS link
 
 trying to Push this file to GitHub Repo
 
